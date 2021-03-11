@@ -1,0 +1,15 @@
+
+***************************************************************
+
+Bilgisayar Adı: DESKTOP-80QEIE2
+Kullanıcı Adı: mazlum
+IPv4: 192.168.1.46
+MAC: 28:C2:DD:6C:55:57
+Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz
+Microsoft Windows 10 Home Single Language 64-bit
+Anakart: X555LB
+465 GB 
+RAM BOYUTU: 4 GB
+NVIDIA GeForce 940M 2 GB
+Intel(R) HD Graphics 5500 1 GB
+Yazıcılar: Fax - Microsoft Print to PDF - Microsoft XPS Document Writer - OneNote - Send To OneNote 2016 - 

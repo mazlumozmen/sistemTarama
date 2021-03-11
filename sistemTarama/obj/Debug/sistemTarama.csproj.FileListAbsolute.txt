@@ -1,0 +1,58 @@
+c:\users\mazlum\documents\visual studio 2015\Projects\sistemTarama\sistemTarama\bin\Debug\sistemTarama.exe.config
+c:\users\mazlum\documents\visual studio 2015\Projects\sistemTarama\sistemTarama\bin\Debug\sistemTarama.exe
+c:\users\mazlum\documents\visual studio 2015\Projects\sistemTarama\sistemTarama\bin\Debug\sistemTarama.pdb
+c:\users\mazlum\documents\visual studio 2015\Projects\sistemTarama\sistemTarama\obj\Debug\sistemTarama.Form1.resources
+c:\users\mazlum\documents\visual studio 2015\Projects\sistemTarama\sistemTarama\obj\Debug\sistemTarama.Properties.Resources.resources
+c:\users\mazlum\documents\visual studio 2015\Projects\sistemTarama\sistemTarama\obj\Debug\sistemTarama.csproj.GenerateResource.Cache
+c:\users\mazlum\documents\visual studio 2015\Projects\sistemTarama\sistemTarama\obj\Debug\sistemTarama.exe
+c:\users\mazlum\documents\visual studio 2015\Projects\sistemTarama\sistemTarama\obj\Debug\sistemTarama.pdb
+c:\users\mazlum\documents\visual studio 2015\Projects\sistemTarama\sistemTarama\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+c:\users\mazlum\documents\visual studio 2015\Projects\sistemTarama\sistemTarama\bin\Debug\Microsoft.SqlServer.Types.dll
+c:\users\mazlum\documents\visual studio 2015\Projects\sistemTarama\sistemTarama\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+c:\users\mazlum\documents\visual studio 2015\Projects\sistemTarama\sistemTarama\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+c:\users\mazlum\documents\visual studio 2015\Projects\sistemTarama\sistemTarama\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+c:\users\mazlum\documents\visual studio 2015\Projects\sistemTarama\sistemTarama\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+c:\users\mazlum\documents\visual studio 2015\Projects\sistemTarama\sistemTarama\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+c:\users\mazlum\documents\visual studio 2015\Projects\sistemTarama\sistemTarama\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+c:\users\mazlum\documents\visual studio 2015\Projects\sistemTarama\sistemTarama\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+c:\users\mazlum\documents\visual studio 2015\Projects\sistemTarama\sistemTarama\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+c:\users\mazlum\documents\visual studio 2015\Projects\sistemTarama\sistemTarama\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+c:\users\mazlum\documents\visual studio 2015\Projects\sistemTarama\sistemTarama\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+c:\users\mazlum\documents\visual studio 2015\Projects\sistemTarama\sistemTarama\obj\Debug\sistemTarama.Yazdir.resources
+c:\users\mazlum\documents\visual studio 2015\Projects\sistemTarama\sistemTarama\obj\Debug\RdlCompile.cache
+c:\users\mazlum\documents\visual studio 2015\Projects\sistemTarama\sistemTarama\obj\Debug\RdlCompile.compiled
+C:\Users\mazlum\Documents\Visual Studio 2015\Projects\sistemTarama\sistemTarama\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mazlum\Documents\Visual Studio 2015\Projects\sistemTarama\sistemTarama\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\mazlum\Documents\Visual Studio 2015\Projects\sistemTarama\sistemTarama\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\mazlum\Documents\Visual Studio 2015\Projects\sistemTarama\sistemTarama\obj\Debug\sistemTarama.csprojAssemblyReference.cache
+C:\Users\mazlum\Documents\Visual Studio 2015\Projects\sistemTarama\sistemTarama\obj\Debug\sistemTarama.csproj.CoreCompileInputs.cache
+C:\Users\mazlum\Documents\Visual Studio 2015\Projects\sistemTarama\sistemTarama\obj\Debug\sistemTarama.csproj.CopyComplete
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\obj\Debug\sistemTarama.csprojAssemblyReference.cache
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\obj\Debug\sistemTarama.Form1.resources
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\obj\Debug\sistemTarama.Properties.Resources.resources
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\obj\Debug\sistemTarama.Yazdir.resources
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\obj\Debug\sistemTarama.csproj.GenerateResource.cache
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\obj\Debug\RdlCompile.cache
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\obj\Debug\RdlCompile.compiled
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\obj\Debug\sistemTarama.csproj.CoreCompileInputs.cache
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\obj\Debug\sistemTarama.exe
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\obj\Debug\sistemTarama.pdb
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\bin\Debug\sistemTarama.exe.config
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\bin\Debug\sistemTarama.exe
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\bin\Debug\sistemTarama.pdb
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\mazlum\Desktop\sistemTarama\sistemTarama\obj\Debug\sistemTarama.csproj.CopyComplete
